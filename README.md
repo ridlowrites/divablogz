@@ -1,0 +1,2 @@
+# mypostnow
+My Blog Posting
